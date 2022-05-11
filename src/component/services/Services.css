@@ -6,7 +6,7 @@
 }
 .service{
     background: rgba(255, 140, 0, 0.204);
-    border-radius:  0 0 2rem 2rem;
+    border-radius:  1rem 1rem 2rem 2rem;
     border: 1px solid rgba(0, 136, 255, 0.4);
     height:fit-content;
     transition: 350ms;
@@ -20,7 +20,7 @@
 {
     background: rgba(0, 136, 255, 0.4);
     padding:2rem;
-    border-radius:0 0 2rem 2rem;
+    border-radius:1rem;
     box-shadow: 0 2rem 1rem rgba(0,0,0,0.1);
 }
 .service_head h3{

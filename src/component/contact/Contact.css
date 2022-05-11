@@ -1,27 +1,27 @@
 .container.contact_container
 {
-    width:78%;
+    width:70%;
     display: grid;
     grid-template-columns: 30% 58%;
     gap:1.2rem;
+    
 }
 .contact_options{
     display: flex;
     flex-direction: column;
-    gap: 1.2em;
+    gap: 1.5em;
 }
 .contact_option
 {
     background: rgba(166, 255, 0, 0.261);
     padding: 1.2rem;
-    border-radius:1.2rem;
+    border-radius:1rem;
     text-align: center;
-    border:1px solid transparent;
-    transition:350ms;
+  
 }
 .contact_options:hover{
     background:transparent;
-    border-color:red ;
+    border-color:rgb(252, 252, 252) ;
 }
 .contact_option-icon
 {
