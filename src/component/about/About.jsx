@@ -3,7 +3,7 @@ import './About.css'
 import { FaAward } from 'react-icons/fa'
 import { DiAtom } from 'react-icons/di'
 import { FaPeopleCarry } from 'react-icons/fa'
-import me2 from '../../assets/self.jpg'
+import me2 from '../../assets/self.png'
 const About = () => {
   return (
     <section id="About">
