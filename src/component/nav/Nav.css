@@ -1,0 +1,46 @@
+nav{
+    background:rgba(0, 157, 255, 0.3);
+    width:max-content;
+    display:block;
+    padding:0.1rem 0.1rem;
+    z-index:2;
+    position:fixed;
+    right:1%;
+    transform:translateX(-0.1rem);
+    top:3rem;
+    display:flex;
+    gap:0.1rem;
+    border-radius: 10rem;
+    backdrop-filter: blur(10px);    
+   
+}
+nav a{
+    background: transparent;
+    padding:0.9rem;
+    border-radius:50%;
+    display:flex;
+    color:rgb(255, 255, 255);
+    font-size:1.1rem;
+}
+nav a:hover
+{
+    background:rgba(255, 255, 255, 0.421);
+    transition: 350ms;
+}
+nav a.active
+{
+    background:rgba(255, 255, 255, 0.232);
+    color:rgb(255, 255, 255)
+}
+
+/*Medium devices*/
+@media screen and (
+    max-width: 1024px
+)
+{
+    nav{
+
+    
+  display: none;
+    }
+}
