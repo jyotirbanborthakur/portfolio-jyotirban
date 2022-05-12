@@ -1,25 +1,28 @@
 import React from 'react'
 import './Portfolio.css'
-import img from '../../assets/portfolio.png'
+import img1 from '../../assets/portfolio1.png'
+import img2 from '../../assets/portfolio2.png'
+import img3 from '../../assets/portfolio3.png'
+
 
 const dataArray=[
   {
     id:1,
-    image:{img},
+    image:{img1},
     title:'Digital Library System',
     github:'',
     demo:'https://jyotirbanborthakur.github.io/Library-project/#'
   },
   {
     id:2,
-    image:{img},
+    image:{img2},
     title:'Social Media comment box',
     github:'www.google.com',
     demo:'https://jyotirbanborthakur.github.io/Comment-page-project/'
   },
   {
     id:3,
-    image:{img},
+    image:{img3},
     title:'Smart form',
     github:'www.google.com',
     demo:'https://jyotirbanborthakur.github.io/Form-Validation-Project-using-Regex/'
