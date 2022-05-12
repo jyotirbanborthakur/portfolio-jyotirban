@@ -40,7 +40,7 @@ const Portfolio = () => {
            return(
             <article key={id} className='portfolio_item'>
             <div className='portfolio_item-image'>
-              <img src={img} alt="" />
+              <img src={image} alt="" />
               </div>
               <h3>{title}</h3>
               <div className='portfolio_item-cta'>
