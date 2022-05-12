@@ -6,7 +6,7 @@ const dataArray=[
   {
     id:1,
     image:{img},
-    title:'first',
+    title:'Digital Library System',
     github:'',
     demo:'https://jyotirbanborthakur.github.io/Library-project/#'
   },
