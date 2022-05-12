@@ -7,22 +7,22 @@ const dataArray=[
     id:1,
     image:{img},
     title:'first',
-    github:'www.google.com',
-    demo:'https://dribbble.com/shots/18207678-Miso-Beauty-Landing-Page-Animation'
+    github:'',
+    demo:'https://jyotirbanborthakur.github.io/Library-project/#'
   },
   {
     id:2,
     image:{img},
     title:'second',
     github:'www.google.com',
-    demo:'https://dribbble.com/shots/18207678-Miso-Beauty-Landing-Page-Animation'
+    demo:'https://jyotirbanborthakur.github.io/Comment-page-project/'
   },
   {
     id:3,
     image:{img},
     title:'third',
     github:'www.google.com',
-    demo:'https://dribbble.com/shots/18207678-Miso-Beauty-Landing-Page-Animation'
+    demo:'https://jyotirbanborthakur.github.io/Form-Validation-Project-using-Regex/'
   }
 ]
 const Portfolio = () => {
