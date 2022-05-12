@@ -13,14 +13,14 @@ const dataArray=[
   {
     id:2,
     image:{img},
-    title:'second',
+    title:'Social Media comment box',
     github:'www.google.com',
     demo:'https://jyotirbanborthakur.github.io/Comment-page-project/'
   },
   {
     id:3,
     image:{img},
-    title:'third',
+    title:'Smart form',
     github:'www.google.com',
     demo:'https://jyotirbanborthakur.github.io/Form-Validation-Project-using-Regex/'
   }
