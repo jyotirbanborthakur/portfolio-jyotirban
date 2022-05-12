@@ -14,7 +14,7 @@ const HeaderSocial = () => {
     <a href="https://twitter.com/JyotirbanGarg" target="blank"><AiFillTwitterSquare/></a>
     <a href="https://t.me/Jyotirban" target="blank"><BsTelegram/></a>
     <a href="https://www.facebook.com/zutirban.borthakur.9" target="blank"><AiFillFacebook/></a>
-    <a href="https://api.whatsapp.com/send?phone=8638378894&text=Hi%20Jyotirban" target="blank"><IoLogoWhatsapp/></a>
+    <a href="https://api.whatsapp.com/send?phone=918638378894&text=Hi%20Jyotirban" target="blank"><IoLogoWhatsapp/></a>
 
     </div>
   )
