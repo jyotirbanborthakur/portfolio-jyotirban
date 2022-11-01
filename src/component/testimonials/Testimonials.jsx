@@ -8,13 +8,12 @@ import 'swiper/css/pagination'
 import avtr2 from '../../assets/2.jpg'
 import avtr3 from '../../assets/3.jpg'
 
-
 const Testimonials = () => {
   const reviews=
   [
     {
       avatar:avtr1,
-      name:'Abinash Ballabh Saikia',
+      name:'Jetaban Borthakur',
       review: 'Jyotirban is what you may call a real freelancer. I am grateful to have him for around 5 years as my IT Consultant. He has been my first preference when it comes to website development'
     },
     {
